@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Full-Stack%20Software%20Engineer%20building%20AI-powered%20products%20with%2C%20Next.js%20%26%20TypeScript.%20Turning%20real-world%20problems%20into%20production-ready%20software.;Software%20Engineer%20building%20scalable%20web%20and%20mobile%20applications%20with%20AI.%20Currently%20developing%20LandiSmart%20to%20modernize%20property%20management%20across%20Africa." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Full-Stack%20Software%20Engineer%20building%20products%20with%2C%20Next.js%20%26%20TypeScript.%20Turning%20real-world%20problems%20into%20ready%20software.;Software%20Engineer%20building%20scalable%20web%20and%20mobile%20applications%20with%20AI.%20Currently%20developing%20LandiSmart%20to%20modernize%20property%20management%20across%20Africa." alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
